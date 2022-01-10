@@ -8,7 +8,7 @@ This repository is a assignment in NYCU VRDL. In this assignment, we are only al
 ## <div align="center">Proposed Approach</div>
 <p>
 <!--    <a align="center" target="_blank"> -->
-   <img width="850" src="https://github.com/adchentc/NYCU_VRDL_Super_Resolution/blob/main/proposed.png"></a>
+   <img width="600" align="center" src="https://github.com/adchentc/NYCU_VRDL_Super_Resolution/blob/main/proposed.png"></a>
 </p>
 
 ## <div align="center">Usage</div>
