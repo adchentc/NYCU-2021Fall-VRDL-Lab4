@@ -1,4 +1,4 @@
-# NYCU_VRDL_Super_Resolution
+# VRDL Lab4: Super Resolution
 
 
 ## <div align="center">Abstract</div>
